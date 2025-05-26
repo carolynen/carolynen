@@ -2,7 +2,7 @@
 # 🌟 Welcome to My GitHub Profile! 👩‍💻
 
 ### Hi, I'm Carolyne 🌟  
-**Full-Stack Developer | Laravel | React | React Native**
+**Full-Stack Developer**
 
 ---
 
