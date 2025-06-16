@@ -54,7 +54,7 @@ A mobile platform for managing vendors and delivery services. Developed with **R
 
 - 💡 **Exploring Advanced React Patterns**: Improving performance and maintainability with hooks, context API, and design patterns.
 - 💪 **Deepening Expertise in Laravel**: Working with **Livewire** and **Inertia.js** for seamless frontend-backend interactions.
-- 🔧 **React Native Development**: Expanding skills in animations, native integrations, and performance optimization.
+- 🔧 **React Native Development**: Expanding skills in native integrations, and performance optimization.
 - ☁️ **Cloud Architecture & DevOps**: Developing a stronger understanding of deployment strategies, containerization, and serverless architecture.
 
 ---
