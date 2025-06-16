@@ -62,7 +62,7 @@ A mobile platform for managing vendors and delivery services. Developed with **R
 ### 📬 Let's Connect
 
 📧 **Email**: [carohndunge@gmail.com](mailto:carohndunge@gmail.com)  
-🔗 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/carol-n-432a14149/)  
+ 
 
 ---
 
